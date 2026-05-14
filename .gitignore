@@ -1,0 +1,4 @@
+productos.db
+.env
+.vscode
+app/**/__pycache__
